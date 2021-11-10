@@ -141,12 +141,12 @@ model_randomforest.fit(X_train, y_train)
 print('Decision Tree score on Train Set: ' + str(model_decisiontree.score(X_train, y_train)))
 print('Decision Tree score on Test Set: ' + str(model_decisiontree.score(X_test, y_test)))
 
-print('Random Forest score on Train Set: ' + str(model_decisiontree.score(X_train, y_train)))
-print('Random Forest score on Test Set: ' + str(model_decisiontree.score(X_test, y_test)))
+print('Random Forest score on Train Set: ' + str(model_randomforest.score(X_train, y_train)))
+print('Random Forest score on Test Set: ' + str(model_randomforest.score(X_test, y_test)))
 ```
 ```
 Decision Tree score on Train Set: 0.808695652173913
 Decision Tree score on Test Set: 0.7435064935064936
-Random Forest score on Train Set: 0.808695652173913
-Random Forest score on Test Set: 0.7435064935064936
+Random Forest score on Train Set: 0.8326086956521739
+Random Forest score on Test Set: 0.7597402597402597
 ```
