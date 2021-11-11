@@ -1,4 +1,4 @@
-# Pima-Indians-Diabetes-Iris-Classification-Decision-Tree-Multi-Layer-Perceptron
+# Iris-and-Pima-Indians-Diabetes-Classification-Decision-Tree-Multi-Layer-Perceptron
 
 ## Overview:
 
